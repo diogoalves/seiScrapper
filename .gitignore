@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# SEI credentials and details
+creds.js
+processos.js
